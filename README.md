@@ -16,7 +16,7 @@
 
 Давайте рассмотрим эту дорожную карту разработчика на Java, чтобы понять, как стать Java-разработчиком в 2023 году!
 
-<img width="834" alt="image" src=https://uproger.com/wp-content/uploads/2023/01/1_5g3cbarjxebphalopaddng.webp">
+https://uproger.com/wp-content/uploads/2023/01/1_5g3cbarjxebphalopaddng.webp
 
 RoadMap для Java-разработчика 2023
 Обязательные навыки для любых Java-разработчиков
